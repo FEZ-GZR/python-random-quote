@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-def main():
+def primary():
     print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -9,7 +9,7 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
-    main()
+    primary()
 
 
 
